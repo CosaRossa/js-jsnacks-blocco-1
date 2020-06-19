@@ -1,0 +1,21 @@
+/* JSNACK6 */
+#lanciaMoneta {
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 1px 1px #ddd;
+}
+
+img {
+  width: 25%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.none {
+  display: none;
+}
+
+.show {
+  display: block;
+}
