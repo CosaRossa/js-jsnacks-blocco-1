@@ -1,0 +1,13 @@
+/* JSNACK4 */
+.pari {
+  background-color: coral;
+  color: #fff;
+}
+.dispari {
+  background-color: lightgreen;
+  color: #fff;
+}
+.none {
+  background-color: #fff;
+  color: #000;
+}
